@@ -1,0 +1,13 @@
+{
+  "params": {
+    "uri": "mysql://root:@localhost/codingthunder",
+    "websitename": "The Coding Thunder",
+    "tagline": "Be The Real Coder",
+    "gmail-user": "devanshsingh134@gmail.com",
+    "gmail-password": "devu@8505",
+    "admin-username": "admin@admin",
+    "admin-pass": "qwerty123",
+    "upload_location": "C:\\Users\\devan\\OneDrive\\Desktop\\flask\\static\\assets\\img"
+
+  }
+}
